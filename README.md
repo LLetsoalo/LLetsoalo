@@ -1,4 +1,4 @@
- Letlhogonolo Michell Letsoalo
+## Letlhogonolo Michell Letsoalo
 
 ### Software Developer | Computer Sciences
 
