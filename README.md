@@ -61,7 +61,7 @@ A Java-based web application designed to help savings groups manage monthly cont
 - Dashboard and financial reports
 - Loan management
 
-**Technologies:** Java, Spring Boot, PostgreSQL.
+**Technologies:**  Java, Spring Boot, PostgreSQL, Maven, HTML, CSS and JavaScript.
 
 🔗 [View Repository](https://github.com/LLetsoalo/stockvel-savings-manager)
 
